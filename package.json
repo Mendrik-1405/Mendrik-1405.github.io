@@ -1,5 +1,5 @@
 {
-  "name": "devportfolio-template",
+  "name": "devportfolio-Mendrika",
   "version": "1.2.2",
   "description": "",
   "main": "js/scripts.js",
@@ -14,8 +14,7 @@
     "coding",
     "dev"
   ],
-  "author": "Ryan Fitzgerald",
-  "license": "MIT",
+  "author": "Herilanto Mendrika",
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
